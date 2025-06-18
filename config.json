@@ -1,0 +1,10 @@
+{
+    "timeout_proof_crash_seconds": 85,
+    "timeout_forced_reload_seconds": 1200,
+    "timeout_sync_$on_seconds": 60,
+    "counter_number_suspended": 6,
+    "timeout_click_proof_btn_seconds": 10,
+    "timeout_click_stop_proof_btn_seconds": 1,
+    "isMaintenanceMode": false,
+    "timeMaintenanceMode_minutes": 60
+}
