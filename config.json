@@ -5,6 +5,7 @@
     "counter_number_suspended": 6,
     "timeout_click_proof_btn_seconds": 10,
     "timeout_click_stop_proof_btn_seconds": 1,
-    "isMaintenanceMode": false,
-    "timeMaintenanceMode_minutes": 60
+    "isMaintenanceMode": true,
+    "timeMaintenanceMode_minutes": 60,
+    "timeout_check_proof_interval_seconds": 1
 }
