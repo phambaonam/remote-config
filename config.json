@@ -1,5 +1,5 @@
 {
-    "timeout_proof_crash_seconds": 85,
+    "timeout_proof_crash_seconds": 105,
     "timeout_forced_reload_seconds": 1200,
     "timeout_sync_$on_seconds": 60,
     "counter_number_suspended": 6,
