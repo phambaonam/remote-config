@@ -1,5 +1,5 @@
 {
-    "timeout_proof_crash_seconds": 120,
+    "timeout_proof_crash_seconds": 85,
     "enable_reload_proof_crash": true,
     "enable_reload_http_request_error": true,
     "timeout_forced_reload_seconds": 1200,
