@@ -1,6 +1,6 @@
 {
     "timeout_proof_crash_seconds": 120,
-    "enable_reload_proof_crash": true,
+    "enable_reload_proof_crash": false,
     "enable_reload_http_request_error": true,
     "timeout_forced_reload_seconds": 1200,
     "timeout_sync_$on_seconds": 60,
